@@ -1,4 +1,8 @@
 _repo: Carmen-Espanjalaisen-mustalaistyton-elamantarina_48662
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mérimée, Prosper
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/920
     wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48662#Carmen-Espanjalaisen-mustalaistyton-elamantarina
 gutenberg_issued: '2015-04-07'
 gutenberg_type: Text
 identifiers:
